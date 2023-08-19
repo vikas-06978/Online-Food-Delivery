@@ -190,7 +190,7 @@ html{
 #contact::before{
     content: "";
     position: absolute;
-    background: url('img1.png') no-repeat center center/cover;
+    background: url('image1.png') no-repeat center center/cover;
     height: 100%;
     width: 100%;
     z-index: -1;
